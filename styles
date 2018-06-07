@@ -18,3 +18,10 @@ a:-webkit-any-link {
     text-decoration-line: none !important;
 
 }
+
+
+ng add @ng-bootstrap/schematics
+npm install --save @angular/flex-layout
+ng update @angular/core
+npm install —save @angular/material @angular/cdk
+npm install —save @angular/animations
