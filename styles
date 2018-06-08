@@ -25,3 +25,4 @@ npm install --save @angular/flex-layout
 ng update @angular/core
 npm install —save @angular/material @angular/cdk
 npm install —save @angular/animations
+https://stackoverflow.com/questions/11841725/how-to-add-facebook-login-to-my-own-website
